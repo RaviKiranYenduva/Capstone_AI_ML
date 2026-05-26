@@ -14,3 +14,14 @@ The project highlights the practical application of concepts acquired throughout
 **Programming Languages:** Python, JavaScript  
 **Frameworks & Libraries:** Flask, React (if applicable)  
 **Platforms & Tools:** Git, Docker, AWS, TensorFlow
+
+# Documentation
+
+## Datasheet
+- [Datasheet](docs/Datasheet.md)
+
+## Model Card
+- [Model Card](docs/ModelCard.md)
+
+## Reflections
+- [Week 12 Reflection](docs/Week12_Reflection.md)
