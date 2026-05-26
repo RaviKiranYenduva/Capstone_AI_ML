@@ -25,3 +25,18 @@ The project highlights the practical application of concepts acquired throughout
 
 ## Reflections
 - [Week 12 Reflection](docs/Week12_Reflection.md)
+
+# Repository Structure
+
+```text
+Capstone_AI_ML/
+│
+├── data/
+├── notebooks/
+├── scripts/
+├── docs/
+│   ├── Datasheet.md
+│   ├── ModelCard.md
+│   └── Week12_Reflection.md
+│
+├── README.md
